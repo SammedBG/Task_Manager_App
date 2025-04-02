@@ -51,6 +51,3 @@ A simple full-stack app to manage tasks using MongoDB, Express.js, React, and No
 
 ## License
 MIT
-
----
-Built with xAI assistance. Fork or contribute on GitHub!
