@@ -17,7 +17,7 @@ A simple full-stack app to manage tasks using MongoDB, Express.js, React, and No
 - MongoDB (local or [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
 
 ## Setup
-1. **Clone Repo**: `git clone <repository-url> && cd mern-task-manager`
+1. **Clone Repo**: `git clone https://github.com/SammedBG/Task_Manager_App.git && cd mern-task-manager`
 2. **Backend**:
    - `cd server`
    - `npm install`
